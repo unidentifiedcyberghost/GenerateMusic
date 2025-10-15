@@ -203,6 +203,11 @@ guide by pinoyunknown / codeibeats
 <img width="1372" height="773" alt="youtube channel" src="https://github.com/user-attachments/assets/c37c5898-791d-4e26-b915-6739f28f3290" />
 
 
+TIP ME A COFFEE <3 
+donate LTC: ltc1q8wdrz9n220jgqgwj25yzhq2het80ke8r4k2k5d
+donate LTC: ltc1q8wdrz9n220jgqgwj25yzhq2het80ke8r4k2k5d
+
+
 
 
 
