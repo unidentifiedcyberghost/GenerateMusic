@@ -196,14 +196,18 @@ For trap/R&B feel: sidechain the synth pads to the kick, and compress the piano 
 
 If you want a different key, change the chord note names (e.g., transpose every MIDI note by +2 semitones).
 
-
+================================================================================================================================
 if you want more music, click this link and don't forget to subscribes:
 
 AWAKENED > https://www.youtube.com/watch?v=4GjpIvaKj0o
+
 I AM A NINJA > https://www.youtube.com/watch?v=5wzE181ZgsQ
+
 CYBERPUNK JAPANESE > [https://youtu.be/yObRqWp5b78?si=8Rtllz8hpUI5iNy7](https://www.youtube.com/watch?v=CqYJoXJWE_Y)
+
 Japanese Trap Style - Katana - https://www.youtube.com/watch?v=D31sI_o7a-A
 
+================================================================================================================================
 
 guide by pinoyunknown / codeibeats
 <img width="1372" height="773" alt="youtube channel" src="https://github.com/user-attachments/assets/c37c5898-791d-4e26-b915-6739f28f3290" />
